@@ -4,12 +4,12 @@
 
 # Site
 title: My blog
-subtitle:
-description:
-keywords:
+subtitle: gundam
+description: 高达的历史
+keywords: 阿姆罗和夏亚
 author: Fxzhangtong
-language: zh
-timezone:
+language: zh-cn
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
